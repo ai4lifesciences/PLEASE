@@ -28,18 +28,3 @@ knowledge, testable statements, 7,306 evidence records, 27,000 analytical
 specifications, 54,000 exact method-level effects and 88,789 broad route-level
 records.
 
-## Local preview
-
-```bash
-python3 -m http.server 8765 --directory PLEASE_public_release_v1.4.0
-```
-
-Open `http://localhost:8765/`. The site must be served over HTTP because web
-browsers do not allow a local `file://` page to fetch adjacent JSON files.
-
-## Scope boundary
-
-The release covers publicly discoverable plant-stress transcriptomic evidence
-within predefined source, query and date boundaries. It does not claim a known
-denominator of all public plant-stress evidence, nor does it cover genetics,
-phenotypes, proteomics or metabolomics.
