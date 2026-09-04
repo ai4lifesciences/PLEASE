@@ -1,0 +1,296 @@
+{
+  "resource": "PLEASE",
+  "expanded_name": "PLant Evidence Atlas for StrEss",
+  "version": "1.4.0",
+  "release_date": "2026-09-03",
+  "validation_date": "2026-09-04",
+  "search_boundary_date": "2026-08-27",
+  "manifest_scope": "deployable payload files; the manifest does not list itself",
+  "files": [
+    {
+      "path": ".htaccess",
+      "bytes": 343,
+      "sha256": "86fe287f4b7be1f6f60f3c17c6c3f157831961ca51e731e664da54c318b6d752"
+    },
+    {
+      "path": "DEPLOYMENT.md",
+      "bytes": 1442,
+      "sha256": "1d5ff6d12daa30d4028376df1e5be76316baec1f5012472a6a888b5128773da6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1949,
+      "sha256": "325b4f3dba07ff05a2834b77fc64c43d241b95ab97f1f00a9b4e9e1b1fa7bf74"
+    },
+    {
+      "path": "RELEASE_VALIDATION.md",
+      "bytes": 2205,
+      "sha256": "2dcfcdcacb51ac662d5da88c7d5550e2e1c1ce2755b73db768253c4f5b77a112"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 6,
+      "sha256": "78b591400c56b7b67b8cb3b2b8a8e65e9093897f02ce0878e6b5405c68620fa7"
+    },
+    {
+      "path": "assets/app.js",
+      "bytes": 77026,
+      "sha256": "22db2f7704c093f110fb905bdc8226cfa8a005227640e9f26e971d8084d033a7"
+    },
+    {
+      "path": "assets/brand/please-mark.png",
+      "bytes": 176549,
+      "sha256": "0f208d2862e22c9a823a356695184b0c109f1cd53a71c28b0a91801835ccec5a"
+    },
+    {
+      "path": "assets/institute/university-of-sydney-white.svg",
+      "bytes": 11751,
+      "sha256": "885ba3f12199e9dabdbc9e1967b0e4b322f8cae34288f03d01c14b34be138cf7"
+    },
+    {
+      "path": "assets/institute/wheat-at-pbi.jpeg",
+      "bytes": 82615,
+      "sha256": "5053d6cab7c17036660769ad157b57ed9e64158aca0f10ee9f75297750f10f94"
+    },
+    {
+      "path": "assets/panels/research-action-matrix.png",
+      "bytes": 34039,
+      "sha256": "912c38587d3dddba9518afcd705c17270750b33001f2c5114b837bf587db4feb"
+    },
+    {
+      "path": "assets/story/01-biological-coverage.png",
+      "bytes": 1372980,
+      "sha256": "a7717d5e72f927605834b022600af37ebee6dfd191488d2748dce9be14af03f8"
+    },
+    {
+      "path": "assets/story/03-search-evidence-map.png",
+      "bytes": 74519,
+      "sha256": "189c0744554df11a7045414a1a78f3beedf17334271984ed54e3a264922301bc"
+    },
+    {
+      "path": "assets/story/04-programme-map.png",
+      "bytes": 128356,
+      "sha256": "37c95ebee2cc9a8e4774a69b6f195a461cafad6b64a19730b74f7b6090f48d3a"
+    },
+    {
+      "path": "assets/story/05-specificity-portability.png",
+      "bytes": 62703,
+      "sha256": "9186c82c962c8ff9fbff211b8f4e21b5a3d5dae76965ffe8cefe0589a292264f"
+    },
+    {
+      "path": "assets/story/06-context-occupancy.png",
+      "bytes": 147955,
+      "sha256": "f4c7cd0fb0897a4c05e12ca67d7047d170a69333a966a3f63ffee8473194be3f"
+    },
+    {
+      "path": "assets/story/07-cross-domain-boundary.png",
+      "bytes": 79382,
+      "sha256": "9d1c082006803509b7ff6db9bc5b989943c72ea5ef47fb0cb15d85d92bd57ba2"
+    },
+    {
+      "path": "assets/styles.css",
+      "bytes": 73792,
+      "sha256": "f7da469069afc5eeff5b75c96c6907eb4054c506b1c1852880eb9b59946a6658"
+    },
+    {
+      "path": "data/claims.json",
+      "bytes": 70149,
+      "sha256": "4eb8e50dcbfc87e27b6e7ce2c3410d1c1f4c593acddf75f508d6396350f11d62"
+    },
+    {
+      "path": "data/families.json",
+      "bytes": 50677,
+      "sha256": "16fea164c69af6aafcb01a71596220b6eb43c680be25b3622b4bf9af08fa4437"
+    },
+    {
+      "path": "data/headline.json",
+      "bytes": 42674,
+      "sha256": "46e6d44fe849c0caa8c66d786258654682b83951ce0084ec4f4c15f6fba15eab"
+    },
+    {
+      "path": "data/methods.json",
+      "bytes": 25689,
+      "sha256": "e2dcbea63592ac4a1514c918eadcafdc2ce94b16b88fd58d8c7cfe0d9e0d9a7e"
+    },
+    {
+      "path": "data/propositions.json",
+      "bytes": 1707957,
+      "sha256": "e79cd9695b842c113448d6b5eefb2273a982df310b7a5f178240f175460513db"
+    },
+    {
+      "path": "data/replication_debt.json",
+      "bytes": 1080766,
+      "sha256": "f313d73563a4aab05a38f34390ff75a37bdcaebb845dd4409781485acf5d9aa4"
+    },
+    {
+      "path": "data/summary.json",
+      "bytes": 4333,
+      "sha256": "1dad2a256c4bf8809ad5213d3c6ff5c201e9ee9dd8530c9f3619ede34c217ae0"
+    },
+    {
+      "path": "downloads/ANALYSIS_MANIFEST.tsv",
+      "bytes": 5360,
+      "sha256": "ae9a4512f74549f56d6b7b804859d99eaf70869a203443f8f861ce1328128fd0"
+    },
+    {
+      "path": "downloads/DATA_DICTIONARY.md",
+      "bytes": 5650,
+      "sha256": "962ae8bfcc8235ccc9ed2b021e97e736b541880a3d89e5186fecb986ddae5042"
+    },
+    {
+      "path": "downloads/PLEASE_complete_analysis_release_v1.4.0.zip",
+      "bytes": 7094057,
+      "sha256": "6adafed456567f5f52bb7bee45ef07f9345c9b437a6ae80ed884c20fbc91cb58"
+    },
+    {
+      "path": "downloads/README.md",
+      "bytes": 1269,
+      "sha256": "33b7b857a7aff89aeb5e323ac98c5c65420f6ec20faf42f56332810a0bfb194f"
+    },
+    {
+      "path": "downloads/analytical_specifications.tsv.gz",
+      "bytes": 450460,
+      "sha256": "22e613957283f3d3fa140d2684dfbb0ebdd831a0ecff72569581a7162a0c25e8"
+    },
+    {
+      "path": "downloads/atlas_propositions.tsv.gz",
+      "bytes": 55359,
+      "sha256": "90d366d6296a95013b60649b9552fa1e80a4eadc32ba651b2ab51cf504254ab9"
+    },
+    {
+      "path": "downloads/audited_evidence_objects.tsv.gz",
+      "bytes": 355654,
+      "sha256": "aa639945b8191df64f6474c9425b4e7cf50d3dbb706147117d3e9c358886b8e6"
+    },
+    {
+      "path": "downloads/broad_route_effects.tsv.gz",
+      "bytes": 3144438,
+      "sha256": "b962770132942f288a6c67f6c89b833b481773f8d0a21caaf5c3e9f3f303b162"
+    },
+    {
+      "path": "downloads/claim_fingerprints.tsv.gz",
+      "bytes": 382333,
+      "sha256": "32e4e414efb733ae1459a8e027527129062f31d5fd172db98694aadb02cfe5c3"
+    },
+    {
+      "path": "downloads/claim_proposition_crosswalk.tsv.gz",
+      "bytes": 23286,
+      "sha256": "36f3a8ebd78a3c351d7f0b104b5a44e9b563fbeb20b421f8b9c75e167304d90a"
+    },
+    {
+      "path": "downloads/context_occupancy.tsv",
+      "bytes": 4360,
+      "sha256": "bf4100173e260b8d68e884b7b4f6ee9709e705684e838e3c0f1b54a80886393a"
+    },
+    {
+      "path": "downloads/cross_domain_transfer.tsv",
+      "bytes": 450,
+      "sha256": "943cad427dc6a27d01aed868a2bb9c6147fa77e4eb6e049b1d7ca7098196b35e"
+    },
+    {
+      "path": "downloads/decision_case_catalog.tsv",
+      "bytes": 1991,
+      "sha256": "773a0615d7fa86aab59407a4e0097a632b18dcdf96bc169391cc8a7694cd7912"
+    },
+    {
+      "path": "downloads/evidence_object_proposition_crosswalk.tsv.gz",
+      "bytes": 96008,
+      "sha256": "01ca1b5195124e0f5a09c1103b98b12a7f6cc8c6392f46b7ad412ef3086f3a9e"
+    },
+    {
+      "path": "downloads/exact_method_effects.tsv.gz",
+      "bytes": 2352641,
+      "sha256": "7dddafcb67b1b7ec3fdbaa7cbc8dda329e380d57d4c6211b0a7d85304583475a"
+    },
+    {
+      "path": "downloads/harmonized_claims.tsv",
+      "bytes": 11819,
+      "sha256": "f7464277cef308c33074e1c80f52b6ed21ec42df1f7de42633c50b558c772da5"
+    },
+    {
+      "path": "downloads/headline_results.json",
+      "bytes": 42674,
+      "sha256": "46e6d44fe849c0caa8c66d786258654682b83951ce0084ec4f4c15f6fba15eab"
+    },
+    {
+      "path": "downloads/molecular_bridge_survival.tsv",
+      "bytes": 562,
+      "sha256": "c24c6768d1838170326e3e4b32ee665576e15d615a67d3e795bbf7bfa602629d"
+    },
+    {
+      "path": "downloads/ontology_counts.tsv",
+      "bytes": 1089,
+      "sha256": "ff6033a70fb4e03bf48aeac1131fcba29b63b89aede41451a4d55a6b77d94c9c"
+    },
+    {
+      "path": "downloads/portability_decomposition.tsv",
+      "bytes": 1288,
+      "sha256": "50372a139e3823d1cf708bc3bdbe20b84c95c5165f0dcb3150e27e0335204093"
+    },
+    {
+      "path": "downloads/portability_state_summary.tsv",
+      "bytes": 1026,
+      "sha256": "b60b54514fc74f5d99bbc5701da8a7ed07652722da9b1314d1b2527c5ca661e5"
+    },
+    {
+      "path": "downloads/published_assertions.tsv.gz",
+      "bytes": 11862,
+      "sha256": "4ba07efe11dd5dcceea24c647c538ed5bf082e37145f5486992263219cf39754"
+    },
+    {
+      "path": "downloads/recurrence_by_arm.tsv",
+      "bytes": 494,
+      "sha256": "28ca63fea23cfa9bd0e90ab2a34da31192952ed00020f42dcde3527c25e78ead"
+    },
+    {
+      "path": "downloads/recurrence_by_programme.tsv",
+      "bytes": 4514,
+      "sha256": "bb05c366a733b34856eeb4205c578b52962ce8f90a59bcb2cca6f57c9237fa91"
+    },
+    {
+      "path": "downloads/replication_debt.tsv.gz",
+      "bytes": 28177,
+      "sha256": "f4067e23e882ceed2b49be1b0e760210c04aec33f763ba96df72a43440b7610f"
+    },
+    {
+      "path": "downloads/source_coverage_ledger.tsv",
+      "bytes": 8854,
+      "sha256": "f414f4a652c41c541765589e3b704618a69c93fb6e454cbe51b387dd9d426e77"
+    },
+    {
+      "path": "downloads/specificity_structure.tsv",
+      "bytes": 951,
+      "sha256": "2f7d2c8b78b2687e5e74d2bc9ea9edf9c4849232c47a238336c7217dc8c0b3cd"
+    },
+    {
+      "path": "downloads/statistical_contract.md",
+      "bytes": 9863,
+      "sha256": "6b3b81f19ac93d8f1a348e0725f2300bec8d13211e2aab68b24917fff0b67de9"
+    },
+    {
+      "path": "downloads/study_families.tsv",
+      "bytes": 16218,
+      "sha256": "197871172f19ffb070f0ccb558ee085e63517ea4e9d7799cb499e1daf6d4f911"
+    },
+    {
+      "path": "downloads/study_source_index.tsv",
+      "bytes": 10721,
+      "sha256": "795379bca8c9ddc4efba7810387d23362a1c18f86628207d4ec75464116e124e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3697,
+      "sha256": "e75929657e94444cc0ca23ebf66701e10a9165b63ea2c81a1810925882d9872e"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 42,
+      "sha256": "166a4c0682b1e036d43ca38f0457c18d7d3b4a038f7a265ba307c6cddb0e03ea"
+    },
+    {
+      "path": "site.webmanifest",
+      "bytes": 497,
+      "sha256": "c05ae7a48b7a45dbedbb73fd05449711ace917a1a81c5cee1d5e3b0c32008de7"
+    }
+  ]
+}

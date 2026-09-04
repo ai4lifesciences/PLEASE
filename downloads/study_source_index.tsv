@@ -1,0 +1,88 @@
+canonical_study_family_id	arm	primary_inference	accession	repository	url
+CNP0005053	abiotic	True	CNP0005053	CNGB Sequence Archive	https://db.cngb.org/search/project/CNP0005053/
+CNP0005053	abiotic	True	STT0000066	CNGB Spatial Transcript Omics	https://db.cngb.org/stomics/project/STT0000066/
+CRA004082	abiotic	True	CRA004082	CNCB Genome Sequence Archive	https://ngdc.cncb.ac.cn/gsa/browse/CRA004082
+CRA015077	abiotic	True	CRA015077	CNCB Genome Sequence Archive	https://ngdc.cncb.ac.cn/gsa/browse/CRA015077
+E-MTAB-2115	abiotic	True	E-MTAB-2115	BioStudies ArrayExpress	https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-2115
+GSE102749	abiotic	True	GSE102749	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102749
+GSE117296	abiotic	True	GSE117296	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117296
+GSE119382	abiotic	True	GSE119382	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE119382
+GSE119382	abiotic	True	GSE119383	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE119383
+GSE133921	abiotic	True	GSE133921	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE133921
+GSE14578	abiotic	True	GSE14493	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14493
+GSE14578	abiotic	True	GSE14502	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14502
+GSE14578	abiotic	True	GSE14578	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14578
+GSE180100	abiotic	True	GSE180100	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180100
+GSE198394	abiotic	True	GSE198394	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198394
+GSE198394	abiotic	True	PRJNA814870	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA814870
+GSE198394	abiotic	True	ZENODO:17411065	Zenodo	https://zenodo.org/records/17411065
+GSE205141	abiotic	True	GSE205141	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205141
+GSE205141	abiotic	True	PRJNA843998	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA843998
+GSE220277	abiotic	True	GSE220276	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220276
+GSE220277	abiotic	True	GSE220277	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220277
+GSE220277	abiotic	True	GSE220278	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220278
+GSE220277	abiotic	True	GSE289042	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE289042
+GSE220277	abiotic	True	GSE303744	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE303744
+GSE226105	abiotic	True	GSE226105	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226105
+GSE226218	abiotic	True	GSE226218	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226218
+GSE235495	abiotic	True	GSE235494	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235494
+GSE235495	abiotic	True	GSE235495	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235495
+GSE235495	abiotic	True	GSE235509	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235509
+GSE235495	abiotic	True	GSE235510	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235510
+GSE243472	abiotic	True	GSE243472	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE243472
+GSE251706	abiotic	True	GSE251706	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE251706
+GSE255067	abiotic	True	GSE255065	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255065
+GSE255067	abiotic	True	GSE255066	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255066
+GSE255067	abiotic	True	GSE255067	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255067
+GSE255067	abiotic	True	PRJNA1073455	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1073455
+GSE255067	abiotic	True	PRJNA1073469	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1073469
+GSE268881	abiotic	True	GSE268881	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268881
+GSE270245	abiotic	True	GSE270245	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE270245
+GSE273033	abiotic	True	GSE273033	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273033
+GSE273033	abiotic	True	GSE273926	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273926
+GSE276909	abiotic	True	GSE276909	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276909
+GSE283835	abiotic	True	GSE283835	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE283835
+GSE287184	abiotic	True	GSE287184	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287184
+GSE290214	abiotic	True	GSE290214	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290214
+GSE295637	abiotic	True	GSE295637	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295637
+GSE307070	abiotic	True	GSE307070	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307070
+GSE308672	abiotic	True	GSE308672	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE308672
+GSE313726	abiotic	True	GSE313726	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE313726
+GSE325371	abiotic	True	GSE325371	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE325371
+GSE44307	abiotic	True	GSE44307	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44307
+GSE46205	abiotic	True	GSE46205	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46205
+GSE55592	abiotic	True	GSE55592	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE55592
+GSE65046	abiotic	True	GSE65046	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65046
+GSE74793	abiotic	True	GSE74793	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74793
+GSE7641	abiotic	True	GSE7641	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE7641
+GSE8787	abiotic	True	GSE8787	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE8787
+PRJCA043944	abiotic	True	PRJCA043944	CNCB BioProject	https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA043944
+PRJNA1155997	abiotic	True	PRJNA1155997	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1155997
+PRJNA1183436	abiotic	True	CNP0007009	CNGB Sequence Archive	https://db.cngb.org/search/project/CNP0007009/
+PRJNA1183436	abiotic	True	PRJNA1183436	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1183436
+A3V332_008DD581BEBE1526	biotic	True	GSE97662	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97662
+A3V332_008DD581BEBE1526	biotic	True	PRJNA382580	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA382580
+A3V332_129C1C388BC561C3	biotic	False	GSE75640	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE75640
+A3V332_1A309854BD7FA239	biotic	False	GSE97663	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97663
+A3V332_5B807DFA4FC97EC8	biotic	True	GSE131832	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131832
+A3V332_5B807DFA4FC97EC8	biotic	True	PRJNA545091	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA545091
+A3V332_7729E751AEB9C18D	biotic	True	PRJNA1106450	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1106450
+A3V332_A1D190349D48EE35	biotic	False	GSE142002	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142002
+A3V332_C92ACBA706C8E910	biotic	False	PRJNA477556	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA477556
+A3V332_E4CDB76E8BB96AD5	biotic	True	PRJNA1139814	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1139814
+Arabidopsis_Colletotrichum_higginsianum	biotic	True	ZENODO:8116241	Zenodo	https://zenodo.org/records/8116241
+Arabidopsis_Pseudomonas_HR_spatiotemporal	biotic	True	GSE198022	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198022
+Arabidopsis_Pseudomonas_early_PTI_ETI_scRNA	biotic	True	ZENODO:16533111	Zenodo	https://zenodo.org/records/16533111
+Arabidopsis_Pseudomonas_time_resolved_multiome_spatial	biotic	True	GSE226826	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226826
+Arabidopsis_Sclerotinia_snRNA	biotic	True	ZENODO:17086216	Zenodo	https://zenodo.org/records/17086216
+Arabidopsis_TuMV_GFP_infection_focus_zones	biotic	True	E-MEXP-509	BioStudies ArrayExpress	https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MEXP-509
+Arabidopsis_powdery_mildew_infection_site_LMD	biotic	True	GSE15680	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15680
+Arabidopsis_root_FACS_flg22_Pep1	biotic	False	GSE112960	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112960
+Arabidopsis_virus_companion_cell_FACS	biotic	True	GSE42059	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42059
+Brassica_napus_Sclerotinia_LMD	biotic	True	GSE169299	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169299
+Brassica_napus_Sclerotinia_LMD	biotic	True	PRJNA716204	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA716204
+Soybean_cyst_nematode_multiome	biotic	True	GSE310956	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE310956
+Soybean_cyst_nematode_multiome	biotic	True	PRJNA1367592	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1367592
+Wheat_Fusarium_time_resolved	biotic	True	PRJCA025291	CNCB BioProject	https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA025291
+Wheat_Fusarium_time_resolved	biotic	True	OMIX008122	CNCB OMIX	https://ngdc.cncb.ac.cn/omix/release/OMIX008122
+Wheat_Pyrenophora_lesion_zone_transcriptomics	biotic	True	PRJNA798111	NCBI BioProject	https://www.ncbi.nlm.nih.gov/bioproject/PRJNA798111

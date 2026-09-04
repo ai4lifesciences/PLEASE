@@ -1,0 +1,11 @@
+object_type	inventory_count	primary_inference_count	definition	independence_status
+independent_study_family	62	57	canonical biological independence unit	independent
+dataset_panel	68	63	study-local processed panel	nested within family
+published_assertion	73	67	source-located author assertion	not inferential unit
+harmonized_published_claim	71	66	normalized author assertion	not inferential unit
+harmonized_atlas_coordinate	1811	1721	normalized biological coordinate without direction	descriptive
+harmonized_atlas_proposition	2543	2423	normalized biological coordinate plus direction	data-derived proposition
+audited_evidence_object	7306	7096	one harmonized contrast-context-module object	nested within family
+exact_analytical_specification	27000	26712	one normalization-annotation-gene-set specification	nested within evidence object
+exact_method_level_route_effect	54000	53424	one exact specification by one inferential method	nested within specification and family
+broad_route_effect	88789	88213	one route-specific effect row, including non-exact sensitivity routes	nested within family

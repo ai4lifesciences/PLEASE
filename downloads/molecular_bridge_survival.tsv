@@ -1,0 +1,8 @@
+node	stage	retained_units	parent	definition
+A	candidate_module_pairs	100	root	all predefined 10 x 10 module relationships
+B	pairs_with_seed_overlap	6	A	at least one direct predefined seed gene
+C	fdr10_overlap_pairs	2	B	100-pair BH-corrected overlap
+D	pair_by_lineage_tests	4	C	each retained pair branches into predefined lineage tests
+E	direction_concordant_tests	3	D	same dominant direction between arms
+F	bilateral_loo_stable_tests	1	E	leave-one-family stable in both arms
+G	bilaterally_calibrated_bridges	0	F	both endpoint modules pass joint null calibration

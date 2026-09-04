@@ -1,0 +1,29 @@
+file	category	description	rows	bytes	sha256
+DATA_DICTIONARY.md	Documentation	Definitions of evidence layers, identifiers and every public data file.		5650	962ae8bfcc8235ccc9ed2b021e97e736b541880a3d89e5186fecb986ddae5042
+README.md	Documentation	Entry guide to the public analysis release.		1269	33b7b857a7aff89aeb5e323ac98c5c65420f6ec20faf42f56332810a0bfb194f
+analytical_specifications.tsv.gz	Analytical depth	All 27,000 analytical specifications represented in exact inference.	27000	450460	22e613957283f3d3fa140d2684dfbb0ebdd831a0ecff72569581a7162a0c25e8
+atlas_propositions.tsv.gz	Atlas statements	All 2,543 directional, context-specific testable biological statements.	2543	55359	90d366d6296a95013b60649b9552fa1e80a4eadc32ba651b2ab51cf504254ab9
+audited_evidence_objects.tsv.gz	Audit layers	All 7,306 audited evidence records with study-balanced quality fields.	7306	355654	aa639945b8191df64f6474c9425b4e7cf50d3dbb706147117d3e9c358886b8e6
+broad_route_effects.tsv.gz	Analytical depth	All 88,789 auditable route-level effects after excluding filesystem-specific fields.	88789	3144438	b962770132942f288a6c67f6c89b833b481773f8d0a21caaf5c3e9f3f303b162
+claim_fingerprints.tsv.gz	Audit layers	Evidence-confidence, context-dependence, analytical-sensitivity and annotation-support profiles.	7306	382333	32e4e414efb733ae1459a8e027527129062f31d5fd172db98694aadb02cfe5c3
+claim_proposition_crosswalk.tsv.gz	Crosswalks	Links from standardized published conclusions to compatible testable statements and studies.	1879	23286	36f3a8ebd78a3c351d7f0b104b5a44e9b563fbeb20b421f8b9c75e167304d90a
+context_occupancy.tsv	Statistical results	Independent-family occupancy across observed biological contexts.	96	4360	bf4100173e260b8d68e884b7b4f6ee9709e705684e838e3c0f1b54a80886393a
+cross_domain_transfer.tsv	Statistical results	Family-balanced cross-domain transfer endpoints by abstraction level.	5	450	943cad427dc6a27d01aed868a2bb9c6147fa77e4eb6e049b1d7ca7098196b35e
+decision_case_catalog.tsv	Statistical results	Evidence states and public research-action examples.	4	1991	773a0615d7fa86aab59407a4e0097a632b18dcdf96bc169391cc8a7694cd7912
+evidence_object_proposition_crosswalk.tsv.gz	Crosswalks	Links from all 7,306 audited evidence records to testable statements.	7306	96008	01ca1b5195124e0f5a09c1103b98b12a7f6cc8c6392f46b7ad412ef3086f3a9e
+exact_method_effects.tsv.gz	Analytical depth	All 54,000 exact method-level effects after excluding filesystem-specific fields.	54000	2352641	7dddafcb67b1b7ec3fdbaa7cbc8dda329e380d57d4c6211b0a7d85304583475a
+harmonized_claims.tsv	Published knowledge	All 71 standardized published conclusions.	71	11819	f7464277cef308c33074e1c80f52b6ed21ec42df1f7de42633c50b558c772da5
+headline_results.json	Statistical results	Machine-readable values used by the interactive summary views.		42674	46e6d44fe849c0caa8c66d786258654682b83951ce0084ec4f4c15f6fba15eab
+molecular_bridge_survival.tsv	Statistical results	Survival of predefined cross-arm programme pairs under bilateral calibration.	7	562	c24c6768d1838170326e3e4b32ee665576e15d615a67d3e795bbf7bfa602629d
+ontology_counts.tsv	Documentation	Inventory and primary-inference counts for every evidence layer.	10	1089	ff6033a70fb4e03bf48aeac1131fcba29b63b89aede41451a4d55a6b77d94c9c
+portability_decomposition.tsv	Statistical results	Coverage, conditional accuracy, portability and exact Shapley attribution.	3	1288	50372a139e3823d1cf708bc3bdbe20b84c95c5165f0dcb3150e27e0335204093
+portability_state_summary.tsv	Statistical results	Matched-concordant, matched-discordant and unmatched states by specificity.	4	1026	b60b54514fc74f5d99bbc5701da8a7ed07652722da9b1314d1b2527c5ca661e5
+published_assertions.tsv.gz	Published knowledge	All 73 source-located article assertions and publication provenance.	73	11862	4ba07efe11dd5dcceea24c647c538ed5bf082e37145f5486992263219cf39754
+recurrence_by_arm.tsv	Statistical results	Study-balanced recurrence and matched-reference calibration by stress arm.	2	494	28ca63fea23cfa9bd0e90ab2a34da31192952ed00020f42dcde3527c25e78ead
+recurrence_by_programme.tsv	Statistical results	Study-balanced recurrence and calibration for 20 predefined response programmes.	20	4514	bb05c366a733b34856eeb4205c578b52962ce8f90a59bcb2cca6f57c9237fa91
+replication_debt.tsv.gz	Action layer	Question-level replication-gap and reanalysis-priority profiles.	1065	28177	f4067e23e882ceed2b49be1b0e760210c04aec33f763ba96df72a43440b7610f
+source_coverage_ledger.tsv	Documentation	Search scope, reviewed volume, retrieval status and explicit limitations by public source.	14	8854	f414f4a652c41c541765589e3b704618a69c93fb6e454cbe51b387dd9d426e77
+specificity_structure.tsv	Statistical results	Primary biological-specificity sequence and parallel sensitivity dimensions.	7	951	2f7d2c8b78b2687e5e74d2bc9ea9edf9c4849232c47a238336c7217dc8c0b3cd
+statistical_contract.md	Documentation	Estimands, reference models, leakage controls and interpretation boundaries.		9863	6b3b81f19ac93d8f1a348e0725f2300bec8d13211e2aab68b24917fff0b67de9
+study_families.tsv	Independent studies	All 62 dependency-resolved studies, their biological scope and original data links.	62	16218	197871172f19ffb070f0ccb558ee085e63517ea4e9d7799cb499e1daf6d4f911
+study_source_index.tsv	Source index	Official repository accessions and public landing-page URLs for all study families.	87	10721	795379bca8c9ddc4efba7810387d23362a1c18f86628207d4ec75464116e124e

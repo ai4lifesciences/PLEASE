@@ -1,0 +1,8 @@
+specificity_level_id	branch	parent_level_id	added_dimension	key_fields	inferential_role	coordinates	audited_evidence_objects	independent_study_families
+P1	primary		module	arm;module	Primary specificity sequence	20	7022	57
+P2	primary	P1	stress	arm;module;stress_axis	Primary specificity sequence	249	7022	57
+P3	primary	P2	organ	arm;module;stress_axis;organ_axis	Primary specificity sequence	406	7022	57
+P4	primary	P3	lineage	arm;module;stress_axis;organ_axis;lineage_axis	Primary specificity sequence	1023	7022	57
+P4S	orthogonal_refinement	P4	species	arm;module;stress_axis;organ_axis;lineage_axis;species	Parallel sensitivity dimension	1630	7022	57
+P4T	orthogonal_refinement	P4	phase	arm;module;stress_axis;organ_axis;lineage_axis;phase_harmonized	Parallel sensitivity dimension	1072	7022	57
+P4R	orthogonal_refinement	P4	resolution	arm;module;stress_axis;organ_axis;lineage_axis;resolution_group_harmonized	Parallel sensitivity dimension	1053	7022	57

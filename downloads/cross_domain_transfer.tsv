@@ -1,0 +1,6 @@
+specificity_rank	abstraction_level	target_families	family_balanced_transfer_accuracy	endpoint_type	calibrated_survival_fraction
+0	global_programme	54.0	0.7592592592592593	direction_transfer	
+1	broad_shared_axis	54.0	0.75	direction_transfer	
+2	organ_or_resolution_context	55.0	0.7484848484848484	direction_transfer	
+3	cell_organ_lineage_context	13.0	0.6153846153846154	direction_transfer	
+4	specific_molecular_bridge			bilateral_evidence_survival	0.0

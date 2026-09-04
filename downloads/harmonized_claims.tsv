@@ -1,0 +1,72 @@
+harmonized_claim_id	analytic_endpoint	expected_direction	stress_filter	organ_filter	broad_lineage_filter	cell_type_filter	module_filter	claim_scope	object_type
+HCLAIM_c6503371cbbcfe93	module_direction	down	salt	root	root_hair	root_hair	root_hair_growth	root-hair developmental response to salt	harmonized_claim
+HCLAIM_c4c7c83908774b89	within_study_cell_type_heterogeneity	cell_type_specific	salt	leaf;root	all_cell_resolved	all_cell_resolved	all_modules	leaf and root cell-type heterogeneity under abiotic stress	harmonized_claim
+HCLAIM_7b686d5cf4cd8d29	responder_rank_proxy	highest	HeatShock_42C_2h	unspecified	ground_cortex_mesophyll	Cortex	*	maize root cell types	harmonized_claim
+HCLAIM_842727ccfcd777f2	directional	up	HeatShock_42C_2h	unspecified	*	unspecified	heat_shock	all nine maize root cell types	harmonized_claim
+HCLAIM_cb34cc83566c2b22	directional	up	HeatShock_42C_2h	unspecified	ground_cortex_mesophyll	Cortex	heat_shock	cortex cells	harmonized_claim
+HCLAIM_66c8fb6d5b095950	response_heterogeneity	any	HeatShock_42C_2h	unspecified	vascular_transport;barrier_endodermis	Phloem;Endodermis;Pericycle	*	selected maize root cell types	harmonized_claim
+HCLAIM_d191c463b0108f5b	annotation_resolution_out_of_scope	any	HeatShock_42C_2h	unspecified	ground_cortex_mesophyll	Cortex subtype 1;Cortex subtype 2	*	cortex subtypes	harmonized_claim
+HCLAIM_60860b8c426c8c69	source_only_out_of_scope	up	HeatShock_42C_2h	unspecified	ground_cortex_mesophyll	Cortex	heat_shock	maize cortex and whole-plant phenotype	harmonized_claim
+HCLAIM_1fe0619d3c205ae1	program_support	network_activation	drought	primary_root_tip_growth_zone	not_applicable	not_applicable	hormone_crosstalk	spatial-temporal soybean root-tip drought response	harmonized_claim
+HCLAIM_7d5ad2121cc80a34	module_direction	up	drought	mature_root	not_applicable	not_applicable	osmotic	vascular BRL3 drought response	harmonized_claim
+HCLAIM_1881a5feecf57919	directional	up	HeatShock_38C_45min	unspecified	*	unspecified	heat_shock	all annotated root cell types	harmonized_claim
+HCLAIM_db8622687edbc0cb	directional	down	HeatShock_38C_45min	unspecified	epidermal_frontline	unspecified	cell_wall;hormone_crosstalk	root-hair cells	harmonized_claim
+HCLAIM_56816d6d851e8e76	directional	down	HeatShock_38C_45min	unspecified	epidermal_frontline	unspecified	cell_wall	root-hair cells	harmonized_claim
+HCLAIM_e3321c2208e051b2	response_heterogeneity	any	HeatShock_38C_45min	unspecified	*	unspecified	*	all annotated root cell types	harmonized_claim
+HCLAIM_993f676a2bf75061	annotation_sensitivity	any	HeatShock_38C_45min	unspecified	*	unspecified	*	all heat-shocked root cells	harmonized_claim
+HCLAIM_967f8c3b193085fc	module_direction	maintained	drought	root_apex	not_applicable	not_applicable	cell_wall	primed versus unprimed root-apex zones under recurrent drought	harmonized_claim
+HCLAIM_1510d8a3caf363a3	directional	up	Hypoxia_2h	unspecified	*	*	heat_shock	promoter-tagged compartments under 2 h hypoxia	harmonized_claim
+HCLAIM_0ac7abea1d135f28	response_heterogeneity	not_applicable	Hypoxia_2h	unspecified	*	*	*	global/regional/promoter-tagged response pattern	harmonized_claim
+HCLAIM_c04d935d35dfc49d	program_out_of_scope	not_applicable	Hypoxia_2h	unspecified	*	*	*	core anaerobic/translational response	harmonized_claim
+HCLAIM_222bf7de0649086e	source_only_out_of_scope	not_applicable	Hypoxia_2h	unspecified	*	*	*	organ-level physiology and translatome magnitude	harmonized_claim
+HCLAIM_47cb177c66188358	context_specific_program	context_dependent	water_deficit	root	not_applicable	not_applicable	ion_transport	sorted rice root populations across water extremes	harmonized_claim
+HCLAIM_228c2e0af59cd6d0	directional	up	Rehydration15min	unspecified	*	*	hormone_crosstalk	15 min rehydration across major leaf cell types	harmonized_claim
+HCLAIM_9b5a117f58e35e7c	program_out_of_scope	not_applicable	Rehydration15min	unspecified	*	*	*	bulk and single-nucleus drought recovery	harmonized_claim
+HCLAIM_9fdb1e0b80947fad	source_only_out_of_scope	not_applicable	Rehydration15min	unspecified	*	*	*	spatial validation in the original study	harmonized_claim
+HCLAIM_d67f5a3093132895	source_only_out_of_scope	not_applicable	Rehydration15min	unspecified	*	*	*	Arabidopsis and tomato pathogen phenotype	harmonized_claim
+HCLAIM_aa120f0de01f2876	module_direction	protective_up	salt	root	all_cell_resolved	all_cell_resolved	ros	cotton root salt response and GaGH3.6 validation	harmonized_claim
+HCLAIM_c1c6b098889c92bb	cell_state_shift	context_dependent	osmotic	root	root_hair	root_hair	osmotic	trichoblast state transition under osmotic stress	harmonized_claim
+HCLAIM_a5078d8e6c378ad3	source_only_out_of_scope	not_applicable	ABA_4h	unspecified	*	Guard cell	*	guard cells, ABA treatment	harmonized_claim
+HCLAIM_cd2dff491e2c6455	source_only_out_of_scope	not_applicable	ABA_4h	unspecified	*	Guard cell	*	ABF mutant roots and guard cells	harmonized_claim
+HCLAIM_30fedceda3e346e7	source_only_out_of_scope	not_applicable	ABA_4h	unspecified	*	Guard cell	*	guard cells versus other source tissues	harmonized_claim
+HCLAIM_9e7f0f21e1a15f1c	source_only_out_of_scope	not_applicable	ABA_4h	unspecified	*	Guard cell	*	guard-cell chromatin memory	harmonized_claim
+HCLAIM_36f077bdc7b14dde	cross_species_out_of_scope	any	ABA;NaCl100mM	unspecified	*	unspecified	*	cross-species root cell-type markers	harmonized_claim
+HCLAIM_de6332cb012ab27d	cross_species_out_of_scope	any	ABA;NaCl100mM	unspecified	*	unspecified	*	cross-species whole-root cell types	harmonized_claim
+HCLAIM_6757ca8f1c3b66f8	stress_contrast_divergence	any	ABA;NaCl100mM	unspecified	*	unspecified	*	Arabidopsis root cell types	harmonized_claim
+HCLAIM_24d865ca9fd7581b	responder_rank_proxy	highest	ABA	unspecified	vascular_transport	Procambium	*	Arabidopsis root cell types	harmonized_claim
+HCLAIM_2f036006a11b0e9f	cross_species_out_of_scope	any	NaCl100mM	unspecified	*	unspecified	*	cross-species root cell types	harmonized_claim
+HCLAIM_8b31eb495952f752	cross_species_out_of_scope	any	ABA;NaCl100mM	unspecified	vascular_transport	Xylem;Phloem	*	cross-species vascular cell types	harmonized_claim
+HCLAIM_eeac0ee04d17612a	phase_specific_module_direction	late_up	progressive_drought	leaf	not_applicable	not_applicable	ros	late progressive-drought phase in tomato leaf	harmonized_claim
+HCLAIM_6149f955390d1bc8	responder_rank_proxy	not_highest	Drought	unspecified	ground_cortex_mesophyll	Mesophyll	*	major leaf cell types	harmonized_claim
+HCLAIM_9ef6f8cd1e954454	annotation_resolution_out_of_scope	highest	Drought	unspecified	ground_cortex_mesophyll	Mesophyll cluster 13	*	mesophyll subcluster 13	harmonized_claim
+HCLAIM_c11a85ebfaeccbd3	directional	up	Drought	unspecified	ground_cortex_mesophyll	Mesophyll	osmotic	mesophyll cells	harmonized_claim
+HCLAIM_733ad37a1bb7124c	directional	down	Drought	unspecified	ground_cortex_mesophyll	Mesophyll	ros	mesophyll cells	harmonized_claim
+HCLAIM_ecd0253e4e6d3924	response_heterogeneity	any	Drought	unspecified	ground_cortex_mesophyll	Mesophyll	*	mesophyll subpopulations	harmonized_claim
+HCLAIM_3d38bb3ee6a9f01f	directional	up	Drought	unspecified	ground_cortex_mesophyll	Mesophyll	aba	spatial mesophyll subpopulation	harmonized_claim
+HCLAIM_c7c2b5043a136de6	orthogonal_splicing_response	splicing_change	heat	whole_seedling	not_applicable	not_applicable	heat_shock	Arabidopsis whole-seedling heat response	harmonized_claim
+HCLAIM_87beea391ed1153f	cell_type_program	context_dependent	drought	stem	vascular	xylem	hormone_crosstalk	poplar stem xylem plasticity under severe drought	harmonized_claim
+HCLAIM_cd01c8e4ca917a67	within_study_cell_type_heterogeneity	cell_type_specific	phosphate_limitation	root	not_applicable	not_applicable	all_modules	five sorted Arabidopsis root populations under phosphate limitation	harmonized_claim
+HCLAIM_4f4685285abeebfb	directional	up	Progressive_drought_D00_D08	unspecified	ground_cortex_mesophyll	Mesophyll	aba;osmotic;hormone_crosstalk	mesophyll cells	harmonized_claim
+HCLAIM_5c1b6365b089b1f0	directional	up	Progressive_drought_D00_D08	unspecified	ground_cortex_mesophyll	Mesophyll	osmotic	mesophyll cells	harmonized_claim
+HCLAIM_7796881dcb505223	program_out_of_scope	down	Progressive_drought_D00_D08	unspecified	ground_cortex_mesophyll	Mesophyll	photosynthesis	mesophyll cells	harmonized_claim
+HCLAIM_e30fdd485297cfd3	directional	up	Progressive_drought_D00_D08	unspecified	*	unspecified	aba;hormone_crosstalk	mesophyll, epidermal and vascular classes	harmonized_claim
+HCLAIM_aa35a9448357c0e6	directional	down	Progressive_drought_D00_D08	unspecified	ground_cortex_mesophyll	Mesophyll	hormone_crosstalk	mesophyll cells	harmonized_claim
+HCLAIM_0a86e2895678b13a	directional	down	Progressive_drought_D00_D08	unspecified	ground_cortex_mesophyll	Mesophyll	ion_transport;ros	mesophyll cells	harmonized_claim
+HCLAIM_c354b1b3558841f9	source_only_out_of_scope	up	Progressive_drought_D00_D08	unspecified	ground_cortex_mesophyll	Mesophyll	ion_transport;ros	mesophyll and whole-shoot phenotype	harmonized_claim
+HCLAIM_d1a44f31e779c70d	module_direction	up	drought_heat_factorial	mature_third_leaf	not_applicable	not_applicable	heat_shock	seven rice leaf segments under drought-by-heat factorial treatment	harmonized_claim
+HCLAIM_e45c92113ef436ab	response_heterogeneity	not_applicable	Hypoxia_4pctO2_4h	unspecified	*	*	*	root snRNA-seq, 4 h 4% oxygen	harmonized_claim
+HCLAIM_2ec285c88660c949	annotation_resolution_out_of_scope	not_applicable	Hypoxia_4pctO2_4h	unspecified	*	quiescent center	*	quiescent center under hypoxia	harmonized_claim
+HCLAIM_fac3c14874231425	program_out_of_scope	not_applicable	Hypoxia_4pctO2_4h	unspecified	*	*	*	root hypoxia metabolism	harmonized_claim
+HCLAIM_39b60501b77c606f	program_out_of_scope	not_applicable	Hypoxia_4pctO2_4h	unspecified	*	*	*	root hypoxia signaling	harmonized_claim
+HCLAIM_7e5392e8e93c60f6	intensity_by_cell_state_interaction	context_dependent	drought;salt	leaf	meristem	meristem	all_modules	developing rice leaf under drought and salinity at different intensities	harmonized_claim
+HCLAIM_b4d7e1134557f367	module_direction	down	salt	root	cortex	cortex	aquaporin	FACS-isolated Arabidopsis cortex and pericycle under salt	harmonized_claim
+HCLAIM_a741cd0f4c621a0e	response_heterogeneity	not_applicable	*	unspecified	*	*	*	four radial root layers across six salt time points	harmonized_claim
+HCLAIM_30c2f79f9f503294	program_out_of_scope	not_applicable	*	unspecified	*	*	*	spatiotemporal root salt response	harmonized_claim
+HCLAIM_ba88caa81a30662e	source_only_out_of_scope	not_applicable	*	unspecified	*	*	*	tissue-specific ABA suppression	harmonized_claim
+HCLAIM_074e5239b54223f3	source_only_out_of_scope	not_applicable	*	unspecified	*	*	*	primary-root physiological time course	harmonized_claim
+HCLAIM_50266cc84e9b5c9d	module_direction	protective_up	drought	fifth_leaf_growth_zone	not_applicable	not_applicable	ros	maize fifth-leaf growth zone under drought and rewatering	harmonized_claim
+HCLAIM_223133ee1318e690	phase_specific_module_direction	late_up	progressive_drought	leaf	not_applicable	not_applicable	hormone_crosstalk	Arabidopsis progressive-drought time course	harmonized_claim
+HCLAIM_398552f81979a860	program_support	context_dependent	heat	leaf	not_applicable	not_applicable	heat_shock	rice heat and dehydration regulatory-network analysis	harmonized_claim
+HCLAIM_9a3ad49459e5259d	within_study_cell_type_heterogeneity	cell_type_specific	salt	root	all_cell_resolved	all_cell_resolved	all_modules	root cell layers and developmental stages under salinity	harmonized_claim
+HCLAIM_323a61f6354d476c	multi_module_direction	up	salt	root	all_cell_resolved	all_cell_resolved	osmotic;ion_transport;ros	wheat root and leaf nuclei after seven days of NaCl	harmonized_claim
+HCLAIM_e054e9ef6be3feaf	module_direction	protective_up	salt	root	root_hair	root_hair	ros	wheat root-hair salt response across tolerant and sensitive varieties	harmonized_claim

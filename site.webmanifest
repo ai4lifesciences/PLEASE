@@ -1,0 +1,17 @@
+{
+  "name": "PLEASE — PLant Evidence Atlas for StrEss",
+  "short_name": "PLEASE",
+  "start_url": "./#overview",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#f7f8f4",
+  "description": "A claim-centred plant-stress transcriptomic evidence atlas developed at the University of Sydney Plant Breeding Institute.",
+  "icons": [
+    {
+      "src": "assets/brand/please-mark.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="PLEASE is a claim-centred atlas of public plant-stress transcriptomic evidence developed at the University of Sydney Plant Breeding Institute.">
+  <meta name="theme-color" content="#f7f8f4">
+  <title>PLEASE | PLant Evidence Atlas for StrEss</title>
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="icon" type="image/png" href="assets/brand/please-mark.png">
+  <link rel="stylesheet" href="assets/styles.css?v=1.4.0-20260904">
+  <script defer src="assets/app.js?v=1.4.0-20260904a"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="institution-bar">
+    <div class="institution-inner">
+      <a class="university-mark" href="https://www.sydney.edu.au/" target="_blank" rel="noreferrer" aria-label="The University of Sydney">
+        <img src="assets/institute/university-of-sydney-white.svg" alt="The University of Sydney">
+      </a>
+      <span class="institution-divider" aria-hidden="true"></span>
+      <a class="institute-name" href="https://www.sydney.edu.au/science/our-research/research-centres/plant-breeding-institute.html" target="_blank" rel="noreferrer">
+        <span>Faculty of Science</span>
+        <strong>Plant Breeding Institute</strong>
+      </a>
+      <a class="institute-link" href="https://www.sydney.edu.au/science/our-research/research-centres/plant-breeding-institute.html" target="_blank" rel="noreferrer">Institute website <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+  <header class="site-header">
+    <a class="brand" href="#overview" aria-label="PLEASE overview">
+      <span class="brand-mark" aria-hidden="true"><img src="assets/brand/please-mark.png" alt=""></span>
+      <span>
+        <strong>PLEASE</strong>
+        <small><b>PL</b>ant <b>E</b>vidence <b>A</b>tlas for <b>S</b>tr<b>E</b>ss</small>
+      </span>
+    </a>
+    <nav class="primary-nav" aria-label="Primary navigation">
+      <a href="#overview" data-route="overview">Discover</a>
+      <a href="#propositions" data-route="propositions">Evidence browser</a>
+      <a href="#claims" data-route="claims">Published evidence</a>
+      <a href="#families" data-route="families">Independent studies</a>
+      <a href="#debt" data-route="debt">Replication gaps</a>
+      <a href="#methods" data-route="methods">Methods &amp; downloads</a>
+    </nav>
+    <div class="release-tag" id="release-tag">v1.0.0</div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <div id="loading" class="loading-state" role="status">
+      <span class="loading-line"></span>
+      <p>Loading the versioned atlas release…</p>
+    </div>
+    <div id="app" hidden></div>
+  </main>
+
+  <aside id="detail-panel" class="detail-panel" aria-labelledby="detail-title" aria-hidden="true">
+    <button id="detail-close" class="icon-button" type="button" aria-label="Close details">×</button>
+    <div id="detail-content"></div>
+  </aside>
+  <div id="scrim" class="scrim" hidden></div>
+
+  <footer class="site-footer">
+    <div>
+      <strong>PLEASE</strong>
+      <span>A dependency-aware, claim-centred transcriptomic evidence resource.</span>
+    </div>
+    <div class="footer-affiliation"><a href="https://www.sydney.edu.au/science/our-research/research-centres/plant-breeding-institute.html" target="_blank" rel="noreferrer">Plant Breeding Institute</a><span id="footer-release"></span></div>
+  </footer>
+  <noscript>This resource requires JavaScript to filter and inspect the atlas. Download tables remain available in the <code>downloads</code> directory.</noscript>
+</body>
+</html>

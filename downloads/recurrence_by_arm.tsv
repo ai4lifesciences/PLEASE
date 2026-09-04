@@ -1,0 +1,3 @@
+arm	scheme	independent_families	predefined_modules	null_iterations	observed_mean_absolute_sign_balance	matched_null_mean	observed_minus_null	observed_to_null_ratio	empirical_p	modules_fdr10	leave_one_family_out_runs	leave_one_family_out_p05_retained
+abiotic	strict_5x5	41	10	1000	0.2536585365853658	0.101590243902439	0.1520682926829268	2.496878901373284	0.0009990009990009	4	41	41
+biotic	strict_5x5	16	10	20000	0.43125	0.1774321875	0.2538178125	2.4305060207861104	4.999750012499375e-05	5	16	16
